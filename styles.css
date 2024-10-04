@@ -1,0 +1,9 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+@media screen and (max-width:1022px) {
+    .nav1 {
+        display: none;
+    }
+}
